@@ -1,0 +1,6 @@
+{
+  "name": "ResumePulse — AI Resume Analyzer",
+  "description": "Intelligent resume analysis and ATS scoring platform connected to automated cloud review pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
